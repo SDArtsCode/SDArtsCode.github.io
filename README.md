@@ -34,3 +34,7 @@ A website for the Digital Arts and Code community (in the building)
 - Fix height of showcase and mission statement side of homepage when screen is > 992px but < 1400px.
 - Possibly remove mission statement and just transfer it all to the mission page.
 - (EASY) fix arrow pointing toward Discord icon so it works on mobile (you have to get an SVG arrow).
+
+## POST LAUNCH TODO LIST
+- Outline discord as main way of contact
+- Add itch.io link and logo instead of gmail link
